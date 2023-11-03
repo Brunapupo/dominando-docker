@@ -1,0 +1,24 @@
+{
+  "name": "dominando-docker",
+  "version": "1.0.0",
+  "description": "Este repositório é uma coleção abrangente de tutoriais e práticas sobre Docker, destinada a desenvolvedores e entusiastas de tecnologia que desejam aprofundar seus conhecimentos em contêineres e orquestração de serviços. Os materiais estão completamente em português, facilitando o aprendizado para falantes nativos e aqueles que têm mais familiaridade com o idioma.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brunapupo/dominando-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brunapupo/dominando-docker/issues"
+  },
+  "homepage": "https://github.com/Brunapupo/dominando-docker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {}
+}
